@@ -1,0 +1,19 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "cSpell.words": [
+        "pymssql",
+        "boto",
+        "SSID",
+        "sqlalchemy",
+        "pandera",
+        "stepfunctions",
+    ]
+}

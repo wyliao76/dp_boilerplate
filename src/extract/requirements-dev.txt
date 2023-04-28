@@ -1,0 +1,4 @@
+-r requirements.txt
+boto3
+flake8
+autopep8
